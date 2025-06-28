@@ -1,0 +1,16 @@
+.description {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.greet {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.play-game {
+  font-size: 25px;
+  text-decoration: none;
+  color: #02384a;
+}
